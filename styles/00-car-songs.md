@@ -11,7 +11,7 @@
 - **He is Isa, aged 7 months.** Write his name as "Ee-sa" (as in the Arabic for Jesus), and put it in every chorus.
 - The family is East African (Kenya and Tanzania), so some Swahili is good. His mum grew up in South Africa, so add a Zulu word where it fits naturally, not in every song. Avoid "ingonyama" and other Lion King words.
 - Swahili, Zulu and Arabic words are spelled the way they sound (Twen-deh, Yeh-boh, Al-ham-du-lil-lah).
-- **06 Bedtime is the exception:** sleepy from the start. It gets its own calm lullaby style prompt and uses "lala" for sleep.
+- **06 Bedtime** uses "lala" for sleep. Its style is the base made about 30% slower and gentler (about 115 BPM), not a full lullaby (Zafar, 30 Oct 2026).
 - Shower time is "Sar-boon-ies", the family's funny way of saying *saboon* (soap): "Are you ready for sar-boon-ies?"
 
 **The seven songs:** 01 Safari, 02 Prayer, 03 Ramadan, 04 Dinosaurs, 05 Moon and space, 06 Bedtime (lala), 07 Sar-boon-ies.

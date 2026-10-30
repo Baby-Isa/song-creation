@@ -4,14 +4,14 @@
 
 **Brief (Zafar, 30 Oct 2026):** a bedtime song, sleepy from the start, using "lala" for sleep.
 
-**Style prompt (the base, slowed into a lullaby):**
+**Style prompt (the base, about 30% slower and gentler; Zafar, 30 Oct 2026: the 72 BPM lullaby was too slow):**
 ```
-Gentle electronic lullaby, 72 BPM, warm E-flat major, soft swaying 6/8, about 2 minutes. Soft, breathy, warm female lead, hushed family humming. Music box, toy piano, glockenspiel, soft felt piano, warm pads, slow round bass. Sweet sung "lala" hooks, gentle humming ad-libs, slow falling melodies, getting quieter and slower towards the end. Cosy, dreamy, never bright or busy.
+Gentle electronic baby-pop, 115 BPM, warm E-flat major, soft bouncy 4/4, about 2 minutes. Warm, soft sing-song female lead, gentle family backing vocals and humming. Plucky synths, toy piano, glockenspiel, music box, soft handclaps, round mellow bass, light brushed drums. Sweet sung "lala" hooks, gentle "ba-ba" and "boop" hooks, soft rising pitch slides. Calm, cosy, warm, gentle mix, never shrill, winding down softly at the end.
 ```
 
 **Exclude styles:**
 ```
-drums, upbeat, bouncy, EDM, trap, autotune, loud, shrill, dark, minor key
+trap hi-hats, autotune, distorted guitar, EDM drop, screaming, loud, dark, minor key, sad
 ```
 
 **Notes:** "Lala salama" is Swahili for "sleep peacefully". "Bismillah" is said at bedtime.
@@ -64,6 +64,7 @@ Mmm...
 Goodnight, Ee-sa...
 ```
 
-**Takes:** none yet.
+**Takes:**
+- **30 Oct 2026:** the 72 BPM lullaby style was too slow and too different from the original. Restyled to the base at about 115 BPM, softer. Lyrics unchanged.
 
 **Verdict:**
