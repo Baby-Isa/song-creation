@@ -14,14 +14,15 @@ Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. 
 trap hi-hats, autotune, distorted guitar, EDM drop, screaming, dark, minor key, sad
 ```
 
-**Swahili used:** jambo (hello), twende (let's go), twiga (giraffe), tembo (elephant), kiboko (hippo), nyota (stars), kwaheri (goodbye). Each is spelled the way it sounds, with the English nearby.
+**Swahili used:** jambo (hello), twende (let's go), twiga (giraffe), tembo (elephant), kiboko (hippo), nyota (stars), kwaheri (goodbye). **Zulu** (his mum grew up in South Africa): yebo (yes), sawubona (hello, literally "I see you"). Each is spelled the way it sounds, with the English nearby. His name, Isa, is written "Ee-sa" so Suno doesn't say "Eye-sa".
 
 **Lyrics:**
 ```
 [Intro | jeep engine starts, baby giggles]
 Brrrm... brrrm...
 Beep! Beep!
-Ready? Ready?
+Ready, Ee-sa?
+Yeh-boh!
 Jam-bo!
 
 [Verse 1 | bouncy and light]
@@ -34,12 +35,12 @@ Who's that peeking out to play?
 Munch, munch! Way up high!
 Twee-gah's nose is in the sky!
 Long neck, long legs, spots and all
-Hello, giraffe, you're SO tall!
+Sa-wu-bo-na, giraffe, so tall!
 
 [Chorus | big and bouncy, handclaps]
 Safari, safari! Beep, beep, beep!
 Bumpity, bumpity, bounce in the jeep!
-Twen-deh, twen-deh! Here we go!
+Twen-deh, Ee-sa! Here we go!
 Africa, Africa, shout JAM-BO!
 
 [Verse 2 | drums get bigger]
@@ -58,7 +59,7 @@ Big, big yawn... and a bubble... POP!
 [Chorus | big and bouncy, handclaps]
 Safari, safari! Beep, beep, beep!
 Bumpity, bumpity, bounce in the jeep!
-Twen-deh, twen-deh! Here we go!
+Twen-deh, Ee-sa! Here we go!
 Africa, Africa, shout JAM-BO!
 
 [Break | jungle sounds, monkeys]
@@ -78,7 +79,7 @@ Then... BOO! says the owl in the tree!
 [Final Chorus | key change up, everyone sings]
 Safari, safari! Beep, beep, beep!
 Bumpity, bumpity, home in the jeep!
-Twen-deh, twen-deh! Home we go!
+Twen-deh, Ee-sa! Home we go!
 Africa, Africa, we love you so!
 Kwa-heh-ree, Africa! JAM-BO!
 

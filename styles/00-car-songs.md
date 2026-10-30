@@ -7,7 +7,9 @@
 **Rules for this series (Zafar, 30 Oct 2026):**
 - **All seven songs use the same style, the religious ones included.** Each song adds at most one line of its own flavour to the base prompt.
 - Sound effects go into the lyrics as bracket cues, each with a short sung sound (Paa-paaa!, Boom!), so the song still works if Suno doesn't make the effect.
-- Swahili and Arabic words are spelled the way they sound (Twen-deh, Al-ham-du-lil-lah).
+- **He is Isa, aged 7 months.** Write his name as "Ee-sa" (as in the Arabic for Jesus), and put it in every chorus.
+- The family is East African (Kenya and Tanzania), so some Swahili is good. His mum grew up in South Africa, so use one or two Zulu words per song (yebo, sawubona). Avoid "ingonyama" and other Lion King words.
+- Swahili, Zulu and Arabic words are spelled the way they sound (Twen-deh, Yeh-boh, Al-ham-du-lil-lah).
 - Use "lala" for sleep.
 - Shower time is "Sar-boon-ies", the family's funny way of saying *saboon* (soap): "Are you ready for sar-boon-ies?"
 

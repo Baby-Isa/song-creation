@@ -15,9 +15,8 @@ Rewritten at the end of every step (handover).
 3. When the screenshots arrive: fill in `research/playlist.md`, analyse each song, then group them into styles.
 
 **Open questions to Zafar:**
-1. His son's name and age, to put the name in the choruses.
-2. For Prayer: the turbah, counting the tasbih of Fatima Zahra (34, 33, 33), and one sincere line of salawat. Claude recommends yes to all three.
-3. Swahili words in Safari: OK? Claude assumed yes.
+1. For Prayer: the turbah, counting the tasbih of Fatima Zahra (34, 33, 33), and one sincere line of salawat. Claude recommends yes to all three.
+2. Bedtime winds down to "lala" in its last third rather than staying bouncy throughout. Claude recommends the wind-down.
 
 **Starting prompt for a new chat:**
 > Read `CLAUDE.md`, then `docs/status.md` "Next chat" only. Carry on from the first next step. Work in the song-creation repo on the branch named in the session.
