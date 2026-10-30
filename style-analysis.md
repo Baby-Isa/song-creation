@@ -141,7 +141,13 @@ Each group: what defines it, a recipe, and its songs.
 12. **Downtempo, trip-hop and instrumental jazz-funk.** Little or no rap; groove-first. Songs: Rae & Christian, Aim, Medeski Martin & Wood, Kraak & Smaak, Love Speakeasy, Take A Look, Let Off A Couple.
 13. **Outliers.** One-offs: Benga (dubstep), Guru & Damian Marley (reggae), Zealots (eerie doo-wop).
 
-## The target sound, distilled
+## Zafar, 30 Oct
+
+Gang Starr, Mobb Deep, King Geedorah and Tribe are among the playlist's most-played songs, so groups 7-9 are part of the taste, not outside it.
+The plan: make one song per group, starting with the likely favourite. Zafar listens and says what he wants more of, or what to combine.
+Song order: 1, 11, 10, 7, 9, 2, 3, 6, 8, 4, 5, 12, 13. Songs live in `songs/`.
+
+## The target sound, distilled (first take, before the note above)
 
 Groups **1, 2, 3, 10 and 11** form one family: *90s jazz-rap bounce + witty, playful lyrics + modern clean low end.*
 That is the sound described above. Groups 4, 5 and 6 are close cousins. Groups 7-9 are 90s hip-hop but darker or more serious. Groups 12-13 are separate tastes.
