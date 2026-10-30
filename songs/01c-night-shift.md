@@ -1,5 +1,7 @@
 # Song 1, take 3: "Night Shift" (style 1, the lyricist crew)
 
+**KEEPER (Zafar, 30 Oct):** catchy hook without being pop, genuinely good lyrics. Two notes: the chimes, bells and horns clashed (like a kids-TV jingle), and the lyrics are too on the nose. Take 4 (`01d`) tests both.
+
 ## Zafar on take 2, 30 Oct
 Much better; likes it, doesn't love it. Liked the repeating hook and the repeating sample loop, and the concept.
 But it sounds like the later era: a room of hype men posturing, with no substance.
