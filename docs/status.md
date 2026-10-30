@@ -5,8 +5,8 @@ Rewritten at the end of every step (handover).
 ## Next chat
 
 **Where things stand (30 Oct 2026):**
-- The car songs: 01 Safari and 02 Prayer are good, and 07 Sar-boon-ies version 2 is written.
-- Still to do: 03 Ramadan (simpler, on the base style), 04 Dinosaurs, 05 Moon and 06 Bedtime (calm, "lala").
+- The car songs: 01 Safari and 02 Prayer are good. 07 Sar-boon-ies version 2 is a hit, and 04 Dinosaurs version 2 ("You Are My Stegosaurus") is written.
+- Still to do: 03 Ramadan (simpler, on the base style), 05 Moon and 06 Bedtime (calm, "lala").
 - Zafar is collecting screenshots of his playlist.
 
 **Next steps, in order:**
