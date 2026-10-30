@@ -1,5 +1,7 @@
 # Song 3: "Nobody Suspected the Baron" (style 9, DOOM-style eccentric)
 
+**KEPT, first take (Zafar, 30 Oct):** "Not bad. Not my favourite style, but it is good." He kept the first take because it had more musicality.
+
 Picked because it's the furthest from "Night Shift" while staying in Zafar's top plays (King Geedorah). A fresh start; only `song-rules.md` carries over.
 
 How this group differs from group 1:

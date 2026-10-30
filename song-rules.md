@@ -13,6 +13,7 @@
 - Let the best bars land (Zafar, 30 Oct): an unhurried delivery that pauses after punchlines, fewer lines per verse, "..." before the payoff.
 - A hook in a lighter, different voice can lift a song by breaking up the sameness (30 Oct, Night Shift take 4). Use it where it fits.
 - Each new song starts fresh from a distinct group, so the styles don't melt into one (30 Oct).
+- Musicality wins ties: the take with more melody and musical movement is the one he keeps (30 Oct, the Baron). Weird-for-its-own-sake is less his thing.
 - Hooks vary by group. Many of his songs have no catchy chorus at all (scratched hooks, loops, half-spoken lines); use a catchy one only where the style calls for it.
 - Contrast (a second voice, a double-time burst, instrumental breaks) is a tool to choose per song, not a fixed rule. When it's used, write the arrangement into the style prompt.
 - Electro swing is its own group (14), never leaking into the hip-hop songs.
