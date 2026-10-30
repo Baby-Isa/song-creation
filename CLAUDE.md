@@ -13,6 +13,7 @@ The aims, outcomes and method are in `README.md`. The newest word from Zafar win
 - Don't paste whole copyrighted lyrics into the repo. Describe the techniques, quote a line at most. Every new lyric is original.
 - Suno prompts: no artist or song names (describe the sound instead), important tags first, within the limits in `docs/suno-guide.md`.
 - Stay within the month: aim for finished songs, not perfect docs.
+- **Don't overthink it (Zafar, 30 Oct 2026).** When a reference song works, keep its style as the template and vary mostly the words. Write one song per turn, with fun, clever rhymes. No new genres or devices unless he asks.
 
 ## Where things live
 
