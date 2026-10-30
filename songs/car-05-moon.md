@@ -1,12 +1,12 @@
-# Rocket to the Moon
+# Ee-sa the Astronaut
 
-**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** to redo: too samey (Zafar, 30 Oct 2026). Not made.
+**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** version 2, written, not yet made.
 
 **Brief (Zafar, 30 Oct 2026):** the moon and space.
 
 **Style prompt:**
 ```
-Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. Warm sing-song female lead, gentle family backing vocals, giggly ad-libs and call-and-response. Plucky synths, toy piano, glockenspiel, handclaps, round bouncy bass, snare rolls into each chorus. Crisp "ba-ba", "boop" and "pop" vocal hooks, sung animal noises and silly sound ad-libs, rising pitch slides, key change before the last chorus. Warm, clean, gentle mix, never shrill. Sparkly space synths and bubbly arpeggios.
+Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. Warm sing-song female lead, gentle family backing vocals, giggly ad-libs and call-and-response. Plucky synths, toy piano, glockenspiel, handclaps, round bouncy bass, snare rolls into each chorus. Crisp "ba-ba", "boop" and "pop" vocal hooks, sung animal noises and silly sound ad-libs, rising pitch slides, key change before the last chorus. Warm, clean, gentle mix, never shrill. Sparkly space synths and twinkly arpeggios.
 ```
 
 **Exclude styles:**
@@ -14,72 +14,64 @@ Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. 
 trap hi-hats, autotune, distorted guitar, EDM drop, screaming, dark, minor key, sad
 ```
 
-**Notes:**
-- A sung countdown from ten to one: counting, plus the anticipation the research recommends.
-- Bouncing on the moon ("Boing!"), Saturn's hula-hoop, and a little green friend who says "Boo!".
-- Swahili "Mweh-zee" (mwezi, moon) and one Zulu "Yeh-boh!".
-
 **Lyrics:**
 ```
-[Intro | sparkly synths]
-Ee-sa! Helmet on!
-Seatbelt? Click! (Click!)
-Ready? Yeh-boh!
+[Intro | sparkly and building]
+Five... four... three... two... one...
+Blast off! Whoooosh!
 
-[Countdown | everyone counts, building up]
-Ten, nine, eight, seven
-Six, five, four
-Three... two... one...
-BLAST OFF! WHOOOOSH!
+[Verse 1]
+Pop on your helmet, zip up your suit
+Wiggle your toes in your moon-walking boots
+Buckle up tight in your rocket so red
+With a big shiny bubble right over your head!
 
-[Verse 1 | bouncy and light]
-Up, up, through the blue
-Bye-bye, clouds! We're coming through!
-Wiggle, jiggle, rumble, zoom
-Next stop... the big round moon!
+[Chorus | big and bouncy, everyone sings]
+Zoom, zoom, we're off to the moon!
+Ee-sa the astronaut, coming soon!
+Up past the clouds and the birds and the trees
+Bouncing on the moon like it's made of cheese!
 
-[Chorus | big and bouncy, handclaps]
-Rocket, rocket, zoom, zoom, zoom!
-Ee-sa's going to the moon!
-Boing! Boing! Bouncing high!
-Wave to Earth! Bye-bye, bye-bye!
+[Verse 2]
+Twinkly stars go peek-a-boo
+A comet whizzes by and says, "Woo-hoo!"
+Mars is red with a dusty face
+Saturn's got rings, the fanciest in space!
 
-[Verse 2 | playful]
-Here comes Mars, so red, so round
-Bumpity-bump, the dusty ground
-Saturn spins a hula-hoop
-Round and round! Woop, woop, woop!
+[Break | playful]
+Boing! Boing! Light as a feather
+Boing! Boing! Bounce together
+One giant step... and a BOOP!
+Floating round in a loop-the-loop!
 
-[Break | call-and-response]
-Beep-boop! Who are you? (Beep-boop!)
-A little green friend says... BOO!
-Hee-hee! Beep-boop-bee!
-Do you want to play with me?
+[Chorus | big and bouncy, everyone sings]
+Zoom, zoom, we're off to the moon!
+Ee-sa the astronaut, coming soon!
+Up past the clouds and the birds and the trees
+Bouncing on the moon like it's made of cheese!
 
-[Chorus | big and bouncy, handclaps]
-Rocket, rocket, zoom, zoom, zoom!
-Ee-sa's going to the moon!
-Boing! Boing! Bouncing high!
-Wave to Earth! Bye-bye, bye-bye!
+[Verse 3]
+Crater, crater, one, two, three
+Who's hiding in a crater? Peek-a-boo, it's me!
+Moon dust sparkles on your nose
+Ah... ah... A-CHOO! Off it goes!
 
-[Bridge | soft and floaty]
-Floating, floating, upside down
-No more up and no more down
-Mweh-zee, mweh-zee, shining bright
-Stars like sparkles in the night
-Floating... floating... then...
-POP! Ba-da-boom!
+[Bridge | slower and tender]
+Way down there, so blue and small
+That's our home, the best of all
+Blow a kiss and wave goodbye
+Time to zoom back through the sky!
 
 [Final Chorus | key change up, everyone sings]
-Rocket, rocket, zoom, zoom, zoom!
-Bye-bye, stars, and bye-bye, moon!
-Down, down, down... SPLASH!
-Ee-sa's home in a flash!
+Zoom, zoom, home from the moon!
+Back in time for a bedtime tune
+Down through the clouds, SPLASH in the sea
+Ee-sa the astronaut, home with me!
 
 [Outro | fading out]
-Beep-boop!
-Again? Again!
-Hee-hee! Mwah!
+One small step...
+For a little Ee-sa...
+Boop!
 ```
 
 **Takes:** none yet.
