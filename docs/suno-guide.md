@@ -32,9 +32,11 @@ Sources: [HookGenius: Suno character limits](https://hookgenius.app/learn/suno-c
 - Put structure tags on their own line in square brackets: `[Intro]`, `[Verse 1]`, `[Pre-Chorus]`, `[Chorus]`, `[Bridge]`, `[Rap Verse]`, `[Outro]`.
 - One cue per bracket, kept short, for example `[Chorus | fuller harmonies]`. Without cues, verses and choruses can sound the same.
 - Lines of about 6 to 10 syllables sing most naturally.
-- Brackets can also carry performance notes, for example `[Female vocal]`, `[Male vocal]`, `[Duet]`, `[Scratch break]` or `[Beat drops out]`. Check how reliably each one works.
+- Brackets can also carry performance notes, for example `[Female vocal]`, `[Male vocal]`, `[Duet]`, `[Scratch break]` or `[Beat drops out]`. Check how reliably each one works. Sound effects in brackets did not work (see below).
 - Text in brackets is not sung. Text in round brackets is usually sung as backing vocals or ad-libs.
 
 ## What we've learned from our own takes
 
 (Add a line after each session: what we tried, what happened, what to do next time.)
+
+- **30 Oct 2026, Safari:** Suno made **no sound effects** from bracket cues ("elephant trumpet") or from the style prompt ("real toddler giggles"). Sing every sound in the lyrics instead (Paa-paaa!, Hee-hee!, A-choo!). It said the Arabic names decently. The Swahili is unclear.

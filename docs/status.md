@@ -5,18 +5,15 @@ Rewritten at the end of every step (handover).
 ## Next chat
 
 **Where things stand (30 Oct 2026):**
-- The replication test passed (`research/replication-test.md`).
-- The car-song style is written (`styles/00-car-songs.md`), and song 01, Safari, is written (`songs/car-01-safari.md`), ready for Zafar to test in Suno.
-- Zafar is taking screenshots of his Spotify playlist and favourite songs for the style analysis.
+- The car songs are in `songs/`. 01 Safari has been tested: no sound effects came through, so it was rewritten with every sound sung. 02 Prayer and 03 Ramadan are written and not yet made.
+- Zafar is collecting screenshots of his playlist for the style analysis.
 
 **Next steps, in order:**
-1. Zafar makes 2 or 3 takes of Safari. Record what worked in the song file and in `docs/suno-guide.md`: whether Suno made the sound effects or sang them, and how it handled the Swahili. Adjust the base style.
-2. Write the car songs one at a time: 02 Prayer, 03 Ramadan, 04 Dinosaurs, 05 Moon and space, 06 Bedtime (lala), 07 Sar-boon-ies.
+1. Zafar makes Safari (rewritten), Prayer and Ramadan. Log the takes in each song file and the lessons in `docs/suno-guide.md`.
+2. Write 04 Dinosaurs (Isa as a little Stegosaurus, with a friendly T-rex), 05 Moon and space (counting down 10 to 1), 06 Bedtime (its own calm lullaby style, sleepy from the start, "lala"), and 07 Sar-boon-ies (shower time: "Are you ready for sar-boon-ies?").
 3. When the screenshots arrive: fill in `research/playlist.md`, analyse each song, then group them into styles.
 
-**Open questions to Zafar:**
-1. For Prayer: the turbah, counting the tasbih of Fatima Zahra (34, 33, 33), and one sincere line of salawat. Claude recommends yes to all three.
-2. Bedtime winds down to "lala" in its last third rather than staying bouncy throughout. Claude recommends the wind-down.
+**Open questions to Zafar:** none. The turbah was left out of Prayer because he didn't mention it.
 
 **Starting prompt for a new chat:**
 > Read `CLAUDE.md`, then `docs/status.md` "Next chat" only. Carry on from the first next step. Work in the song-creation repo on the branch named in the session.
