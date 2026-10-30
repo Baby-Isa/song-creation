@@ -141,7 +141,15 @@ Each group: what defines it, a recipe, and its songs.
 12. **Downtempo, trip-hop and instrumental jazz-funk.** Little or no rap; groove-first. Songs: Rae & Christian, Aim, Medeski Martin & Wood, Kraak & Smaak, Love Speakeasy, Take A Look, Let Off A Couple.
 13. **Outliers.** One-offs: Benga (dubstep), Guru & Damian Marley (reggae), Zealots (eerie doo-wop).
 
+14. **Electro swing (added by Zafar, 30 Oct).** 1920s-40s swing and gypsy jazz (clarinet, brass, upright bass, vintage vocal chops) over house and hip-hop drums, danceable. Zafar likes several songs by each of these artists:
+    Parov Stelar (Catgroove), Alice Francis (St. James Ballroom), Swing Republic (Any Old Thing), Electric Swing Orchestra (spelling to confirm),
+    Electric Swing Circus, Caravan Palace (Lone Digger, Suzy, Comics, Mighty, "Dragons"?), Tape Five (Dixie Biscuit and many more),
+    "The Bella Swing" (artist to confirm), Swingrowers (Pump Up the Jam), The Lost Fingers, Mr. Scruff (Get a Move On).
+
 ## Zafar, 30 Oct
+
+Song 1 ("Second Cup") was too poppy, too big band and too soft: kids' rhymes, not 90s rappers. Even the smooth ones have an edge.
+The hip-hop songs need that cutting edge: minor keys, hard drums, confident punchlines, no chanted pop hooks, no horns unless asked.
 
 Gang Starr, Mobb Deep, King Geedorah and Tribe are among the playlist's most-played songs, so groups 7-9 are part of the taste, not outside it.
 The plan: make one song per group, starting with the likely favourite. Zafar listens and says what he wants more of, or what to combine.
