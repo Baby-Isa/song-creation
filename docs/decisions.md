@@ -2,6 +2,7 @@
 
 Newest first. One line each: date, what Zafar decided, and where it changed things.
 
+- **30 Oct 2026:** the family says "Ramadan Mubarak".
 - **30 Oct 2026:** don't overthink it. The base style (modelled on the original song) is the template for every car song: vary the words, with small rhythm tweaks only. No "Yeh-boh" at all. No Fable review per song. Ramadan version 2 (taarab) went too far and needs a simpler redo. Sar-boon-ies is redone fresh. (`styles/00-car-songs.md`)
 - **30 Oct 2026:** the songs were too samey. Each needs its own personality and no reused tricks. Safari and Prayer stay. Ramadan onwards are redone one per turn, each with an independent Fable review. In Ramadan, use "daku" and drop the sand and "labbayk" lines. (`styles/00-car-songs.md`)
 - **30 Oct 2026:** every sound is sung, because Suno made none from cues. Bedtime is sleepy from the start, with its own calm style. The religious songs use wudhu, musallah, tasbih and the everyday words (SubhanAllah, Alhamdulillah, and so on), but no names of people: no Prophet, no Imams. (`styles/00-car-songs.md`, `docs/suno-guide.md`)
