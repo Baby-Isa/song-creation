@@ -1,6 +1,6 @@
 # Sar-boon-ies
 
-**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** written, not yet made.
+**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** to redo: too samey (Zafar, 30 Oct 2026). Not made.
 
 **Brief (Zafar, 30 Oct 2026):** shower time. We tell him "Are you ready for sar-boon-ies?", our funny kiddy way of saying saboon (soap).
 

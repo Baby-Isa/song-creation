@@ -1,83 +1,97 @@
-# Ramadan, Ba-da-boom
+# Is It Iftar Yet?
 
-**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** written, not yet made.
+**Style:** [00 Car songs](../styles/00-car-songs.md), but with its own sound (see the notes). **Status:** version 2, written, not yet made.
 
-**Brief (Zafar, 30 Oct 2026):** fasting all day in Ramadan, iftar coming soon, getting the plates and bowls out, charity and helping others, light touches of zakat and hajj, saying Alhamdulillah when we're thankful. The same fun, bouncy feel. No names of people.
+**Brief (Zafar, 30 Oct 2026):** fasting all day in Ramadan, iftar coming soon, getting the plates and bowls out, charity and helping others, saying Alhamdulillah when we're thankful. No names of people.
+**Version 2 (Zafar, 30 Oct 2026):** version 1 was too samey. Start again with its own personality: use "daku", not "suhoor", and drop the sand and "labbayk" lines.
 
-**Style prompt (the base, plus the Ramadan flavour line):**
+**Style prompt:**
 ```
-Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. Warm sing-song female lead, gentle family backing vocals, giggly ad-libs and call-and-response. Plucky synths, toy piano, glockenspiel, handclaps, round bouncy bass, snare rolls into each chorus. Crisp "ba-ba", "boop" and "pop" vocal hooks, sung animal noises and silly sound ad-libs, rising pitch slides, key change before the last chorus. Warm, clean, gentle mix, never shrill. Warm daf frame drum and soft oud plucks.
+Playful children's song in East African taarab-pop style, 130 BPM, bright major key, bouncy hand-drum groove. Warm sing-song female lead with a big, cheerful family chorus shouting answers. Oud, violin section, qanun ripples, darbuka, finger cymbals, handclaps, round bass. Homely, festive, never harsh.
 ```
 
 **Exclude styles:**
 ```
-trap hi-hats, autotune, distorted guitar, EDM drop, screaming, dark, minor key, sad
+trap hi-hats, autotune, distorted guitar, EDM drop, screaming, dark, sad
 ```
 
-**Notes:**
-- The song is bookended by the moon: the new moon starts Ramadan, and the next one brings Eid.
-- Iftar foods are East African Khoja favourites: dates and water, then samosa, bhajia and soup.
-- Swahili "Ka-ri-bu" (welcome) at the neighbour's door, and one Zulu "Yeh-boh!".
-- Hajj appears only as a soft "one day" in the bridge, with "Labbayk".
+**Fable review (independent, 30 Oct 2026), and what changed:**
+- Made the tempo faster (130, not 120) and added "children's song".
+- Cut the sentence about how the song builds from the style prompt, because Suno ignores structure there.
+- Gave the family's answers their own lines, so Suno doesn't run them into the lead's line. It's one lead voice now instead of a duet, because Suno takes only one vocal gender.
+- Swapped the bridge's "sky goes pink" for a countdown, because it echoed Safari's bridge.
+- Spelled "Dah-koo" and "sa-da-ka" the way they sound, and made it clear the grown-ups are fasting.
+- "Ramadan Mubarak" replaces "Ramadan Kareem", which Khoja families say less often. Zafar to confirm.
+
+**Notes on what makes it different:**
+- **The idea is a waiting game.** "Is it iftar yet?" is answered "Not yet!" by the family chorus all day, then "Yes, it's time!" at the end. That's the anticipation and payoff that babies love.
+- **The song moves through the day:** a whispered daku in the dark, a loud afternoon kitchen (someone sneaking a taste with a spoon), sharing and charity at sunset, a hushed tick-tock while everyone watches the clock, then iftar.
+- **Its own sound:** East African coastal taarab-pop, with a shouting family chorus.
+- **None of the repeated tricks:** no "Yeh-boh", no "Twen-deh", no "Ee-sa, Ee-sa", no "ba-da-boom", no key-change final chorus and no "Hee-hee! Mwah!". No Zulu word either: none fit naturally.
+- **East African words:** daku (the pre-dawn meal), mandazi, and Karibu (welcome). Hajj is now left out.
 
 **Lyrics:**
 ```
-[Intro | bouncy hand drums]
-Ee-sa! Look up high!
-A tiny moon is in the sky!
-Ramadan! Ba-da-boom!
+[Intro | whispered, very soft]
+Psst... wake up...
+It's still dark outside...
+Tiptoe, tiptoe... it's Dah-koo time!
 
-[Verse 1 | bouncy and light]
-Up so early, stars still bright
-Suhoor time, a little bite
-Then we fast the whole day through
-Rumble, rumble! Tummy, shoo!
+[Verse 1 | soft groove comes in]
+Chai and mandazi by the kitchen light
+Yawny faces, stars still bright
+One more bite... the dawn is near!
+Now we fast till the sunset's here!
 
-[Chorus | big and bouncy, handclaps]
-Ramadan, Ramadan, ba-da-boom!
-Iftar's coming, coming soon!
-Plates and bowls and cups and spoons
-Ee-sa, Ee-sa, watch the moon!
+[Chorus | family chorus shouts the answers]
+Is it iftar yet?
+NOT YET! NOT YET!
+Is it iftar yet?
+NOT YET! NOT YET!
+The sun's still smiling way up there
+Patience, Ee-sa, we're nearly there!
 
-[Verse 2 | playful]
-Is it time? Yeh-boh! Hooray!
-Clink, clink! Set the plates
-First we open with sweet, sweet dates
-Sip of water... Bismillah!
-Munch, munch, munch... Alhamdulillah!
-Samosa! Bhajia! Pass it round!
-Slurp, slurp! What a yummy sound!
+[Verse 2 | busy and bouncy]
+Afternoon and the kitchen's loud
+Pots and pans and a steamy cloud
+Chop, chop! Sizzle! Fry!
+Samosas stacking way up high
+Who's that sneaking with a spoon?
+Put it down! Iftar's soon!
 
-[Chorus | big and bouncy, handclaps]
-Ramadan, Ramadan, ba-da-boom!
-Iftar's coming, coming soon!
-Plates and bowls and cups and spoons
-Ee-sa, Ee-sa, watch the moon!
+[Chorus | family chorus shouts the answers]
+Is it iftar yet?
+NOT YET! NOT YET!
+Is it iftar yet?
+NOT YET! NOT YET!
+The sun's still smiling way up there
+Patience, Ee-sa, we're nearly there!
 
-[Verse 3 | warm call-and-response]
-Knock, knock! (Ka-ri-bu!)
-Here's a plate for you, and you!
-Coins in the box go clink, clink, clink!
-Helping hands are the best, I think!
-Sadaqah, zakat, share and give
-That's the happy way to live!
+[Verse 3 | warm]
+Knock, knock! A plate for next door
+Ka-ri-bu! We made plenty more!
+Clink! A coin in the sa-da-ka box
+Helping hands and happy knocks
 
-[Bridge | soft and dreamy]
-One day, Ee-sa, we will go
-Round and round in Makkah, slow
-White clothes shining, hand in hand
-Labbayk, labbayk, across the sand
+[Bridge | hushed, drums drop out]
+Tick... tock... tick... tock...
+Everyone's watching the kitchen clock
+The sun slides down... almost... almost...
+Three... two... one...
 
-[Final Chorus | key change up, everyone sings]
-Ramadan, Ramadan, ba-da-boom!
-Look up, Ee-sa, a brand new moon!
-Hugs and kisses, big and small
-Eid Mubarak, one and all!
+[Final Chorus | music bursts back in, huge and joyful]
+Is it iftar yet?
+YES! IT'S TIME!
+Is it iftar yet?
+YES! IT'S TIME!
+A date, a sip... Bismillah!
+Every tummy says... Alhamdulillah!
 
-[Outro | happy, fading out]
-Eid Mubarak!
-Alhamdulillah!
-Hee-hee! Mwah!
+[Outro | happy chatter, fading out]
+Pass the samosa!
+More soup, please!
+Ramadan Mubarak!
+Ramadan Mubarak!
 ```
 
 **Takes:** none yet.

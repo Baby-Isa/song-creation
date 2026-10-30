@@ -1,6 +1,6 @@
 # Ee-sa-saurus
 
-**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** written, not yet made.
+**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** to redo: too samey (Zafar, 30 Oct 2026). Not made.
 
 **Brief (Zafar, 30 Oct 2026):** back to the time of the dinosaurs, with Isa as a little Stegosaurus going through the Jurassic world. A friendly T-rex.
 
