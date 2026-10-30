@@ -5,9 +5,8 @@
 **What they share** (from the research): a fast, bouncy 4/4 beat at 163 BPM in a bright major key. A warm, sing-song female voice. Real little sounds: giggles, sneezes, "Boo!", raspberries, animals. Plosive syllables (ba, pa, boop). A simple chorus that keeps coming back. Surprises: drum rolls, rising slides, a key change.
 
 **Rules for this series (Zafar, 30 Oct 2026):**
-- **Each song needs its own personality (Zafar, 30 Oct 2026, overriding "all the same style"):** its own central idea or game, its own sound, structure and ending. Safari and Prayer are good as they are. Ramadan onwards are redone one at a time, one per turn, each reviewed by an independent Fable agent before Zafar sees it.
-- **Don't reuse these tricks:** "Yeh-boh", "Twen-deh", "Ee-sa, Ee-sa", "ba-da-boom", the key-change final chorus, "Hee-hee! Mwah!", a hushed "Shh... the sun goes down" bridge, and opening by calling his name.
-- **Keep the fun, bouncy, baby-friendly feel** (fast tempo, plosives, his name in the chorus, sung sounds). A song may take a different genre to suit its theme.
+- **The base style is the template (Zafar, 30 Oct 2026):** it's modelled on the original song, which was well researched. Vary the words most, and the rhythm only a little. Don't over-engineer: no new genres or devices. African instruments were only for Safari because it's an African safari.
+- **Never use "Yeh-boh".** Have fun with clever rhymes.
 - **Every sound is sung** (Paa-paaa!, Boom!, A-choo!, Hee-hee!). Suno doesn't make sound effects from bracket cues or the style prompt (Zafar's Safari takes, 30 Oct 2026). Brackets carry only performance cues.
 - **He is Isa, aged 7 months.** Write his name as "Ee-sa" (as in the Arabic for Jesus), and put it in every chorus.
 - The family is East African (Kenya and Tanzania), so some Swahili is good. His mum grew up in South Africa, so add a Zulu word where it fits naturally, not in every song. Avoid "ingonyama" and other Lion King words.

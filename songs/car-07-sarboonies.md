@@ -1,12 +1,12 @@
 # Sar-boon-ies
 
-**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** to redo: too samey (Zafar, 30 Oct 2026). Not made.
+**Style:** [00 Car songs](../styles/00-car-songs.md). **Status:** version 2, written, not yet made.
 
-**Brief (Zafar, 30 Oct 2026):** shower time. We tell him "Are you ready for sar-boon-ies?", our funny kiddy way of saying saboon (soap).
+**Brief (Zafar, 30 Oct 2026):** shower time. We tell him "Are you ready for sar-boon-ies?", our funny kiddy way of saying saboon (soap). Version 2: start fresh, keep the original style, have fun with clever rhymes, and don't overthink it.
 
 **Style prompt:**
 ```
-Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. Warm sing-song female lead, gentle family backing vocals, giggly ad-libs and call-and-response. Plucky synths, toy piano, glockenspiel, handclaps, round bouncy bass, snare rolls into each chorus. Crisp "ba-ba", "boop" and "pop" vocal hooks, sung animal noises and silly sound ad-libs, rising pitch slides, key change before the last chorus. Warm, clean, gentle mix, never shrill. Splashy steel drum and bubbly synth pops.
+Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. Warm sing-song female lead, gentle family backing vocals, giggly ad-libs and call-and-response. Plucky synths, toy piano, glockenspiel, handclaps, round bouncy bass, snare rolls into each chorus. Crisp "ba-ba", "boop" and "pop" vocal hooks, sung animal noises and silly sound ad-libs, rising pitch slides, key change before the last chorus. Warm, clean, gentle mix, never shrill. Bubbly, splashy synth pops.
 ```
 
 **Exclude styles:**
@@ -14,65 +14,65 @@ Bouncy electronic baby-pop, 163 BPM, bright E-flat major, 4/4, about 2 minutes. 
 trap hi-hats, autotune, distorted guitar, EDM drop, screaming, dark, minor key, sad
 ```
 
-**Notes:**
-- Written "Sar-boo-nees" in the lyrics so Suno doesn't say "boon-eyes". If it still goes wrong, try "Sar-boo-neez".
-- Swahili "Ma-jee" (maji, water) and one Zulu "Yeh-boh!".
-- Sung sounds: splish, plip-plop, pop, quack, glug, squeak, tickles.
-
 **Lyrics:**
 ```
 [Intro | bubbly and bouncy]
-Ee-sa! Ee-sa!
 Are you ready for sar-boo-nees?
-Yeh-boh!
-Splish! Splash! Hee-hee!
+Sar-boo-nees! Sar-boo-nees!
+Pop! Pop! Pop!
 
-[Verse 1 | bouncy and light]
-Turn the water... drip, drip, drop!
-Ma-jee falling, plip, plop, plop!
-Wet hair, wet nose, wet little toes
-Here come the bubbles... here it goes!
+[Verse 1]
+Off come the socks, off comes the vest
+Sar-boo-nee time is the time I love best!
+Warm rain tumbling, pitter-pat
+Splishy, splashy, pat, pat, pat!
 
 [Chorus | big and bouncy, everyone sings]
-Sar-boo-nees! Sar-boo-nees!
-Bubbles on your nose and knees!
-Scrubba-dubba, rubba-dub!
-Ee-sa in the bubble club!
+Sar-boo-nees, sar-boo-nees!
+Bubbles from your nose down to your knees!
+Rub-a-dub, scrub-a-dub, bubbles galore
+Ee-sa wants sar-boo-nees, more, more, more!
 
-[Verse 2 | playful]
-Bubbly hair, a fluffy hat!
-Wash the tummy, pat, pat, pat!
-Under arms... tickle, tickle! (Hee-hee!)
-Wiggly toes go wiggle, wiggle!
+[Verse 2]
+A bubble on your nose, a bubble on your chin
+A bubble on the belly where the belly button's in!
+A bubble on your head like a fluffy white hat
+Pop goes the bubble! Now, how about that?
 
-[Break | call-and-response]
-Who's that floating? (Quack, quack!)
-Duckie's coming! (Quack, quack!)
-Bubbles flying way up high
-Pop! Pop! Pop! Bye-bye!
+[Break | playful]
+Ba-ba-bubble, ba-ba-boo
+I've got a bubble just for you!
+It floated up and tickled your nose...
+Ah... ah... A-CHOO! There it goes!
 
 [Chorus | big and bouncy, everyone sings]
-Sar-boo-nees! Sar-boo-nees!
-Bubbles on your nose and knees!
-Scrubba-dubba, rubba-dub!
-Ee-sa in the bubble club!
+Sar-boo-nees, sar-boo-nees!
+Bubbles from your nose down to your knees!
+Rub-a-dub, scrub-a-dub, bubbles galore
+Ee-sa wants sar-boo-nees, more, more, more!
+
+[Verse 3]
+Scrub behind the ears, nice and slow
+That's where the little potatoes grow! (hee-hee!)
+Tickle under arms, tickle-tickle-tee
+Wiggle all the toes, one, two, three!
 
 [Bridge | slower and warm]
-Rinse, rinse, the bubbles go
-Down the drain, glug, glug, slow
-Squeak! The tap goes... all done!
-Fluffy towel for my clean little one!
+Rinse, rinse, the bubbles slide
+Down the drain they glug and hide
+Turn the tap... squeak... all done!
+Snuggle in a towel like a warm, warm bun!
 
 [Final Chorus | key change up, everyone sings]
-Sar-boo-nees! Sar-boo-nees!
-Clean from your nose down to your knees!
-Scrubba-dubba, rubba-dub!
-Ee-sa's the king of the bubble club!
+Sar-boo-nees, sar-boo-nees!
+Squeaky clean from your nose to your knees!
+Rub-a-dub, scrub-a-dub, who smells so sweet?
+It's little Ee-sa, from his head to his feet!
 
 [Outro | fading out]
-Squeaky clean!
 Sniff, sniff... mmm!
-Hee-hee! Mwah!
+Sar-boo-nees!
+Pop!
 ```
 
 **Takes:** none yet.
