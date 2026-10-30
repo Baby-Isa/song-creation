@@ -1,7 +1,10 @@
 # Song rules (from Zafar's feedback; the newest wins)
 
 - Hip-hop needs a cutting edge, even when smooth: no poppy or chanted hooks, no big-band horns, nothing that reads like kids' rhymes (30 Oct).
-- The edge is grown-up wit and bite: wry observation, irony, a sting at the end of each set of four lines. Darkness is a seasoning, not the point (30 Oct, the ChatGPT reference).
-- Build in contrast: a relaxed lead, a second sharper voice with a double-time burst, instrumental breaks, cadence shifts. Write the arrangement into the style prompt.
-- Three verses, plus a guest verse, plus a short mantra hook. Real rhymes, no forced ones.
+- Always: clever lyrics. Wordplay, double meanings, deeper meanings, small scenes with a twist. Real rhymes, no forced ones (30 Oct).
+- **The ChatGPT reference is one style, not the template** (Zafar, 30 Oct). Each group keeps its own recipe: how dark, how jazzy, what kind of hook, whether there's a second voice.
+  What he liked in it, for its style: the clever lines ("the meeting ran long, so the coffee went cold", "voted on a slogan that said what we'd been told",
+  "the bus sighs open like it's tired of the route"), a catchy, fun chorus, and a groove that's a bit jazzy but not too jazzy.
+- Hooks vary by group. Many of his songs have no catchy chorus at all (scratched hooks, loops, half-spoken lines); use a catchy one only where the style calls for it.
+- Contrast (a second voice, a double-time burst, instrumental breaks) is a tool to choose per song, not a fixed rule. When it's used, write the arrangement into the style prompt.
 - Electro swing is its own group (14), never leaking into the hip-hop songs.
