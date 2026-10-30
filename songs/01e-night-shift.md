@@ -83,6 +83,8 @@ Basement level... underground.
 
 [Verse 3: fast, intricate third voice]
 Check it, swift switch, quick pitch, the pen tip twitch,
+Ink on the lip of the page and it won't quit.
+
 Gloss on a desk for a man she won't meet,
 He'll never know her name... but he'll put up his feet.
 Eyes on the screens of a hall full of nothing,
