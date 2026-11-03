@@ -92,13 +92,13 @@ No reliable source lists BPM or key for either song. The tempos below are my est
 
 ---
 
-## 4. Proposed split of the story
+## 4. The story split (approved 3 Nov 2026; Hana is the jalebi, see `research/zafar-hana-story.md`)
 
 | Song A: Soniya style ("the chase") | Song B: Shava style ("the union") |
 |---|---|
 | London ↔ America, calls all night until dawn | Oceans crossed, flights in both directions |
 | He asks: she says no → "I'll think about it" → "yes" in 2 weeks | Golden days together, long stretches apart |
-| She's the sorority queen: a hard shell with a sweet centre (kaju katli with silver varq, or a jalebi) | Hard times beaten together, stronger for it |
+| She's the sorority queen: a hard shell with a sweet centre (a jalebi) | Hard times beaten together, stronger for it |
 | He's the laid-back, funny businessman who won't give up | The second day: "I love you" said and said back (the soft verse) |
 | Gifts, poems, letters | He arrives with the whole family; a blessed wedding in her home |
 | The first meeting, too nervous to say it | Elders' blessings and the whole crowd celebrating |

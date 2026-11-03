@@ -2,6 +2,9 @@
 
 Newest first. One line each: date, what Zafar decided, and where it changed things.
 
+- **3 Nov 2026:** two K3G-style songs about Zafar and Hana. The research is approved. Song A (the chase, in the "You Are My Soniya" style) is first; Song B (the union and wedding, in the "Say Shava Shava" style) is next, one per chat turn. Hana is the jalebi, not a cupcake. Both songs are under 4 minutes. The pronunciations are "Haa-naa" and "Zuff-arr Ab-barse". (`research/zafar-hana-story.md`, `styles/15-bollywood-pop-duet.md`, `songs/k3g-01-jalebi.md`)
+- **3 Nov 2026:** the setup branch (sharp-meitner) and the hip-hop branch (ecstatic-pasteur) are merged into one working branch, so everything is in one place.
+
 - **30 Oct 2026:** the family says "Ramadan Mubarak".
 - **30 Oct 2026:** don't overthink it. The base style (modelled on the original song) is the template for every car song: vary the words, with small rhythm tweaks only. No "Yeh-boh" at all. No Fable review per song. Ramadan version 2 (taarab) went too far and needs a simpler redo. Sar-boon-ies is redone fresh. (`styles/00-car-songs.md`)
 - **30 Oct 2026:** the songs were too samey. Each needs its own personality and no reused tricks. Safari and Prayer stay. Ramadan onwards are redone one per turn, each with an independent Fable review. In Ramadan, use "daku" and drop the sand and "labbayk" lines. (`styles/00-car-songs.md`)

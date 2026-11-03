@@ -23,6 +23,9 @@ The aims, outcomes and method are in `README.md`. The newest word from Zafar win
 | Where we are and the next step (handover) | `docs/status.md`, "Next chat" |
 | Decisions (Zafar's yes and no, dated) | `docs/decisions.md` |
 | Suno know-how: limits, tags, what works | `docs/suno-guide.md` |
+| Song-writing rules from Zafar's feedback (hip hop) | `song-rules.md` |
+| Playlist analysis and the 14 hip-hop style groups | `style-analysis.md` |
+| The Zafar and Hana story brief (K3G songs) | `research/zafar-hana-story.md` |
 | The ChatGPT replication test | `research/replication-test.md` |
 | Songs to analyse and their status | `research/playlist.md` |
 | One analysis per reference song | `research/songs/<artist>-<title>.md` (template `_template.md`) |
