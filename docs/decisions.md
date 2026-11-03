@@ -2,6 +2,8 @@
 
 Newest first. One line each: date, what Zafar decided, and where it changed things.
 
+- **3 Nov 2026:** Song B is written: "Samundar Paar" (style 16, bhangra celebration), with the original hook "Samundar paar, lai aaye baraat". (`songs/k3g-02-samundar-paar.md`)
+
 - **3 Nov 2026:** two K3G-style songs about Zafar and Hana. The research is approved. Song A (the chase, in the "You Are My Soniya" style) is first; Song B (the union and wedding, in the "Say Shava Shava" style) is next, one per chat turn. Hana is the jalebi, not a cupcake. Both songs are under 4 minutes. The pronunciations are "Haa-naa" and "Zuff-arr Ab-barse". (`research/zafar-hana-story.md`, `styles/15-bollywood-pop-duet.md`, `songs/k3g-01-jalebi.md`)
 - **3 Nov 2026:** the setup branch (sharp-meitner) and the hip-hop branch (ecstatic-pasteur) are merged into one working branch, so everything is in one place.
 

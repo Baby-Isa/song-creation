@@ -12,19 +12,15 @@ Rewritten at the end of every step (handover).
   - Process: make one good song per group, then variations of the favourites.
 - **K3G songs for Zafar and Hana:**
   - The research is approved (`research/k3g-reference-analysis.md`), and the story brief is in `research/zafar-hana-story.md`.
-  - **Song A**, "Haa-naa, Meri Jalebi", is written (`songs/k3g-01-jalebi.md`, style 15) and is waiting for Zafar's Suno takes.
+  - **Song A**, "Haa-naa, Meri Jalebi", is written (`songs/k3g-01-jalebi.md`, style 15).
+  - **Song B**, "Samundar Paar", is written (`songs/k3g-02-samundar-paar.md`, style 16).
+  - Both are waiting for Zafar's Suno takes.
 
 **Next steps, in order:**
-1. Zafar makes Song A in Suno and reports back. Tweak it until it's a keeper.
-2. **Song B**, in the "Say Shava Shava" style (the union and wedding), goes in its own turn:
-   - Write `styles/16-bollywood-bhangra-celebration.md` and `songs/k3g-02-<name>.md`.
-   - Keep it under 4 minutes.
-   - Use an ensemble: an elder's blessing intro, the hero, the heroine and the crowd's chants.
-   - The soft verse is "I love you" on day two. Song A ends on the cliffhanger "Kal bolega? Kal pakka! Dekhenge!", which this verse pays off.
-   - Keep the dhol bhangra sound out of Song A's style, and keep Song A's synth-pop out of Song B.
-3. Then carry on with the hip-hop groups (the next song from `style-analysis.md`).
+1. Zafar makes Songs A and B in Suno and reports back. Tweak each until it's a keeper. Check how Suno says "Haa-naa" and "Zuff-arr Ab-barse", and respell them if needed.
+2. Then carry on with the hip-hop groups (the next song from `style-analysis.md`).
 
 **Open questions to Zafar:** none.
 
 **Starting prompt for a new chat:**
-> Read `CLAUDE.md`, then `docs/status.md` "Next chat" only. Here's my feedback on Song A (Jalebi): … Then write Song B (Say Shava Shava style). Work in the song-creation repo on the branch named in the session.
+> Read `CLAUDE.md`, then `docs/status.md` "Next chat" only. Here's my feedback on the K3G songs (Jalebi, Samundar Paar): … Work in the song-creation repo on the branch named in the session.
